@@ -3,14 +3,13 @@ layout: home-infographic
 title: Home
 ---
 
-# Welcome to *One Piece Through Contemporary Art*
+# Dreams Don’t Die: Manga, Freedom, and Contemporary Politics
 
-This digital collection explores how iconic moments from Eiichiro Oda’s *One Piece* connect to contemporary art, protest culture, identity politics, and modern social movements.
+This digital collection explores how iconic moments from *One Piece* connect to contemporary art, protest culture, and modern social movements. By placing manga panels next to real-world protest photos and media graphics, the project shows how a fictional story can inspire conversations about freedom, justice, identity, and solidarity.
 
-The images in this exhibition—from manga panels to fan-captured protest photos—show how a fictional story can inspire real-world activism, community building, and political symbolism.  
-Themes of **freedom, justice, solidarity, resilience, and identity** appear throughout these works, demonstrating how pop culture becomes a powerful tool for understanding the world around us.
+Each item in this collection highlights a different way that Eiichiro Oda’s characters, especially Luffy and his crew, speak to political ideas. From cries of “I wanna live!” to flags raised in the streets, these images trace how fan culture and popular media become powerful tools for expressing hope and resistance.
 
-Use the navigation above to explore items, view the timeline, or learn more about the political symbolism within *One Piece* imagery.
+Use the navigation above to browse the full collection, explore subjects like activism and fandom, or view the timeline to see how these images stretch from the late 1990s to today.
 
 
 
