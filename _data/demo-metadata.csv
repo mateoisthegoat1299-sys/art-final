@@ -1,10 +1,12 @@
-objectid,filename,title,description
-op_001,img10.jpg,"One Piece Image 1","Screenshot from One Piece"
-op_002,img11.jpg,"One Piece Image 2","Screenshot from One Piece"
-op_003,img7.jpg,"One Piece Image 3","Screenshot from One Piece"
-op_004,img8.jpg,"One Piece Image 4","Screenshot from One Piece"
-op_005,img9.jpg,"One Piece Image 5","Screenshot from One Piece"
-op_006,op1.jpg,"One Piece Image 6","Screenshot from One Piece"
-op_007,pic2.jpg,"One Piece Image 7","Screenshot from One Piece"
-op_008,pic3.jpg,"One Piece Image 8","Screenshot from One Piece"
-op_009,pic6.jpg,"One Piece Image 9","Screenshot from One Piece"
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightstatement
+op_001,img10.jpg,,,Luffy The Pirate King is the Most Free,Eiichiro Oda,1997,Panel where Luffy says the Pirate King is the person who is the most free,freedom;pirates;resistance,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+op_002,img11.jpg,,,Luffy Bursting From Barrel,Eiichiro Oda,1997,Opening scene where Luffy bursts from a barrel and laughs about almost dying,beginnings;hope;survival,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+op_003,img7.jpg,,,Franky Existing Is Not A Crime,Eiichiro Oda,2004,Panel where Franky shouts that existing is not a crime,justice;criminalization;identity,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+op_004,img9.jpg,,,Luffy Flag at Student Protest,News photographer,2023,Photo of protesters carrying the Straw Hat flag at a political march,protest;youth;activism,,,,News photo,photo,Image,jpg,en,Educational use only,
+op_005,img8.jpg,,,Luffy Silhouette Leaping Toward Sky,Eiichiro Oda,2003,Panel where Luffy leaps toward the sky chasing a dream,dreams;aspiration;journey,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+op_006,op1.jpg,,,Luffy Grinning Under Sword,Eiichiro Oda,1997,Panel of Luffy smiling even with a sword over his head,courage;risk;optimism,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+op_007,pic2.jpg,,,Crew Welcoming New Member,Eiichiro Oda,2008,Panel where the crew laughs while Luffy recruits a strange new ally,friendship;community;inclusion,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+op_008,pic3.jpg,,,Global Sales Comparison Superman and Luffy,Fan graphic,2022,Graphic comparing global sales of Superman comics and One Piece volumes,global-media;popularity;superheroes,,,,Fan edit,graphic,Image,jpg,en,Educational use only,
+op_009,pic6.jpg,,,Robin I Want to Live,Eiichiro Oda,2005,Panel where Robin cries that she wants to live,trauma;survival;found-family,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+
+
