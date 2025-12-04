@@ -13,6 +13,7 @@ featured-image: demo_001
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
+home-description: "This digital exhibition explores how imagery from Eiichiro Oda’s *One Piece* intersects with contemporary politics, protest culture, and global struggles for freedom. Through manga panels, adapted artworks, and real world photographs, this collection highlights how visual storytelling inspires activism, solidarity, and discussions about justice in today’s world."
 
 ##########
 # ITEM PAGE
