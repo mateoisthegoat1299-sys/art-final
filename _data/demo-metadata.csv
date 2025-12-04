@@ -1,15 +1,12 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightstatement
-onepiece_001,img10.jpg,,,Luffy The Pirate King is the Most Free,Eiichiro Oda,1997,Luffy declares that being Pirate King means being the most free person on the sea,freedom; pirates; resistance,,,,,Image,,,,
-onepiece_002,img11.jpg,,,Luffy Grinning Under Sword,Eiichiro Oda,1997,Luffy smiles fearlessly even while facing execution showing joy and defiance,courage; optimism; risk,,,,,Image,,,,
-onepiece_003,img7.jpg,,,Crew Welcoming New Member,Eiichiro Oda,2008,Straw Hat crew laughs as they welcome Brook showing how found family can be built across difference,friendship; community; inclusion,,,,,Image,,,,
-onepiece_004,img8.jpg,,,Luffy Flag at Student Protest,Unknown photographer,2023,Photograph of protester carrying a One Piece Jolly Roger flag linking anime fandom to real world political action,activism; youth; protest,,,,,Image,,,,
-onepiece_005,img9.jpg,,,Nami Crying I Wanna Live,Eiichiro Oda,2004,Nami cries and begs to live representing trauma oppression and desire for freedom,liberation; emotion; struggle,,,,,Image,,,,
-onepiece_006,op1.jpg,,,Luffy Saying Looks Like I Am Dead,Eiichiro Oda,1997,Luffy jokes about dying while still smiling showing resilience and dark humor,humor; danger; resilience,,,,,Image,,,,
-onepiece_007,pic2.jpg,,,One Piece Sales Versus Superman,Unknown designer,2023,Graphic compares lifetime comic sales of Superman and One Piece highlighting global cultural reach,pop culture; statistics; media,,,,,Image,,,,
-onepiece_008,pic3.jpg,,,Luffy Flag in Street March,News photographer,2023,Crowd of protesters marches with a Straw Hat pirate flag among national flags connecting fiction to real activism,activism; protest; fandom,,,,,Image,,,,
-onepiece_009,pic6.jpg,,,Franky Existing Is Not a Crime,Eiichiro Oda,2004,Franky shouts that existing is not a crime defending the right to live with dignity,identity; justice; dignity,,,,,Image,,,,
-
-
-
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightstatement,image
+onepiece_001,img11.jpg,,,Luffy The Pirate King is the Most Free,Eiichiro Oda,1997,Luffy declaring that the Pirate King is the one who is the most free on the seas.,freedom; pirates; dreams,,,,,Image,image/jpeg,en,,,/objects/img11.jpg
+onepiece_002,img10.jpg,,,Luffy Silhouette Leaping Toward Sky,Eiichiro Oda,2003,Luffy launches himself toward the sky chasing the legendary city of gold.,adventure; sky; determination,,,,,Image,image/jpeg,en,,,/objects/img10.jpg
+onepiece_003,img9.jpg,,,Luffy Flag Over Student Protest,Unknown photographer,2023,A protester raises the Straw Hat pirate flag above a crowd of marchers.,activism; youth; protest,,,,,Image,image/jpeg,en,,,/objects/img9.jpg
+onepiece_004,img8.jpg,,,Nami Crying I Wanna Live,Eiichiro Oda,2004,Nami tearfully asks to be taken to sea as she chooses to keep living.,grief; hope; solidarity,,,,,Image,image/jpeg,en,,,/objects/img8.jpg
+onepiece_005,img7.jpg,,,Luffy Flag in Street March,Unknown photographer,2023,The Straw Hat flag appears among many political flags in a busy street march.,community; fandom; politics,,,,,Image,image/jpeg,en,,,/objects/img7.jpg
+onepiece_006,op1.jpg,,,Luffy Grinning Under Sword,Eiichiro Oda,1997,Luffy smiles fearlessly even with a sword at his neck.,courage; danger; resilience,,,,,Image,image/jpeg,en,,,/objects/op1.jpg
+onepiece_007,pic2.jpg,,,Luffy Bursting From Barrel,Eiichiro Oda,1997,Luffy explodes out of a barrel laughing after a near death experience.,humor; surprise; beginnings,,,,,Image,image/jpeg,en,,,/objects/pic2.jpg
+onepiece_008,pic3.jpg,,,Superman vs Luffy Sales Comparison,Unknown designer,2023,A graphic comparing Superman comic sales to One Piece volumes.,media; pop culture; statistics,,,,,Image,image/jpeg,en,,,/objects/pic3.jpg
+onepiece_009,pic6.jpg,,,Franky Existing Is Not a Crime,Eiichiro Oda,2004,Franky shouts that simply existing should never be treated as a crime.,identity; justice; dignity,,,,,Image,image/jpeg,en,,,/objects/pic6.jpg
 
 
