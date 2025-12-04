@@ -1,12 +1,14 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightstatement
-op_001,img10.jpg,,,Luffy The Pirate King is the Most Free,Eiichiro Oda,1997,Panel where Luffy says the Pirate King is the person who is the most free,freedom;pirates;resistance,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
-op_002,img11.jpg,,,Luffy Bursting From Barrel,Eiichiro Oda,1997,Opening scene where Luffy bursts from a barrel and laughs about almost dying,beginnings;hope;survival,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
-op_003,img7.jpg,,,Franky Existing Is Not A Crime,Eiichiro Oda,2004,Panel where Franky shouts that existing is not a crime,justice;criminalization;identity,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
-op_004,img9.jpg,,,Luffy Flag at Student Protest,News photographer,2023,Photo of protesters carrying the Straw Hat flag at a political march,protest;youth;activism,,,,News photo,photo,Image,jpg,en,Educational use only,
-op_005,img8.jpg,,,Luffy Silhouette Leaping Toward Sky,Eiichiro Oda,2003,Panel where Luffy leaps toward the sky chasing a dream,dreams;aspiration;journey,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
-op_006,op1.jpg,,,Luffy Grinning Under Sword,Eiichiro Oda,1997,Panel of Luffy smiling even with a sword over his head,courage;risk;optimism,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
-op_007,pic2.jpg,,,Crew Welcoming New Member,Eiichiro Oda,2008,Panel where the crew laughs while Luffy recruits a strange new ally,friendship;community;inclusion,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
-op_008,pic3.jpg,,,Global Sales Comparison Superman and Luffy,Fan graphic,2022,Graphic comparing global sales of Superman comics and One Piece volumes,global-media;popularity;superheroes,,,,Fan edit,graphic,Image,jpg,en,Educational use only,
-op_009,pic6.jpg,,,Robin I Want to Live,Eiichiro Oda,2005,Panel where Robin cries that she wants to live,trauma;survival;found-family,,,,One Piece,manga-panel,Image,jpg,en,Educational use only,
+onepiece_001,img10.jpg,,,"Luffy The Pirate King is the Most Free","Eiichiro Oda",1997,"Luffy declaring that Pirate King means being the most free person on the seas.","freedom; pirates; resistance",,,,,Image,,,,
+onepiece_002,img11.jpg,,,"Luffy Grinning Under Sword","Eiichiro Oda",1997,"Luffy smiling fearlessly even while facing execution, symbolizing joy and defiance.", "courage; optimism; risk",,,,,Image,,,,
+onepiece_003,img7.jpg,,,"Crew Welcoming New Member","Eiichiro Oda",2008,"Straw Hat Crew laughing and welcoming Brook, showing found-family and community.","friendship; community; inclusion",,,,,Image,,,,
+onepiece_004,img8.jpg,,,"Luffy Flag at Student Protest","Photo",2023,"A protester waving a One Piece Jolly Roger flag, showing how anime influences modern political movements.","activism; youth; protest",,,,,Image,,,,
+onepiece_005,img9.jpg,,,"Nami Crying — I Wanna Live","Eiichiro Oda",2004,"Nami crying as she asks to be saved, symbolizing oppression, liberation, and solidarity.","liberation; emotion; struggle",,,,,Image,,,,
+onepiece_006,op1.jpg,,,"Luffy Saying ‘Looks Like I’m Dead’","Eiichiro Oda",1997,"Luffy making a joke even at death’s door, showing resilience and humor.","humor; danger; resilience",,,,,Image,,,,
+onepiece_007,pic2.jpg,,,"One Piece Sales vs Superman","Unknown",2023,"Statistical comparison showing One Piece approaching Superman in total sales.","pop culture; statistics; media",,,,,Image,,,,
+onepiece_008,pic3.jpg,,,"Luffy Silhouette Leaping Toward Sky","Eiichiro Oda",2003,"Luffy reaching for the sky symbolizing dreams, ambition, and freedom.","ambition; dreams; freedom",,,,,Image,,,,
+onepiece_009,pic6.jpg,,,"Franky — Existing Is Not a Crime","Eiichiro Oda",2004,"Franky declaring that existence itself is not a crime, symbolizing identity and dignity.","identity; justice; dignity",,,,,Image,,,,
+
+
 
 
